@@ -1,0 +1,21 @@
+I know it's getting late, but wanted to make this announcement real quick! In the 'HTML, CSS, and API Key' module for the NYT App, the instructions at the bottom of the screen on how to obtain an API key aren't quite correct. They must have made an update to their application. I'll post directions below and update the module ASAP.
+Sign up for an account
+Once you've created an account and have successfully signed in, click your username in the upper right hand corner and select 'Apps' from the drop down menu. 
+Click the '+ New App' button in the middle of the screen
+At the top of the screen, you should see 2 input fields for an App Name and Description. Fill out both of the input fields with an app name and a description - these can be whatever you want. 
+After filling out the input fields, click the toggle button to active on the 'Article Search API' (first row, last item).
+Once the App Name, Description, and Article Search API have been filled out/selected, click 'CREATE' in the upper right hand corner of the screen.
+You should then be redirected to a page with your API key. 
+10:24
+Module should now be updated!
+
+the full code from github
+https://github.com/mdn/learning-area/tree/master/javascript/apis/third-party-apis/nytimes
+
+
+App Name : JeffR1150NYTStoryLookup
+Description : Lookup stories within a date range given a search term
+
+App ID : dd53ba18-2867-4308-b1be-9e806e96562b
+Key : FjNWG8FTGsPrI9459iuPnKGC0w6T3waG
+Secret : Mh9tqv91TY4eYSZq
